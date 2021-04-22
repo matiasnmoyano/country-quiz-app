@@ -1,0 +1,7 @@
+body{
+  height: 100%;
+  background-repeat: no-repeat;
+  background: url("../src/image/background.png")no-repeat center center fixed ;
+  background-size: 100% 100%;
+}
+
